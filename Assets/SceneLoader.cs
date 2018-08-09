@@ -4,16 +4,16 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour {
-
-    public SceneAsset[] SceneFiles;
+    
     public bool loadScenesTimer = true;
     public int currentActiveScene = -1;
-    private float numberOfScenes = 5;
+    public int numberOfScenes = 5;
     private float secondsToLoadScene = 7;
 
     // Use this for initialization
     void Start ()
     {
+        Debug.Log(SceneManager.sceneCount);
         LoadScene(1, loadScenesTimer);
     }
 	

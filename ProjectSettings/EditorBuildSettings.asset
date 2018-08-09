@@ -9,18 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/SceneLoader.unity
     guid: 9198b84b8ba76324fa774649bccd749b
   - enabled: 1
-    path: Assets/Scenes/SubScenes/Basketball.unity
+    path: Assets/Scenes/SubScenes/dance-latin_60fps_MOBILE.unity
     guid: dfae68116d1d11142a842f4b2d7d453e
   - enabled: 1
-    path: Assets/Scenes/SubScenes/Fashion.unity
+    path: Assets/Scenes/SubScenes/little-dog_30fps_MOBILE.unity
     guid: 34ff35c224f62124098f2b8af03bde5c
   - enabled: 1
-    path: Assets/Scenes/SubScenes/Soccer.unity
+    path: Assets/Scenes/SubScenes/Shaolin_TaiChi-Mobile.unity
+    guid: ff77c0f1d7df7f24587f91bbe8f720ed
+  - enabled: 1
+    path: Assets/Scenes/SubScenes/Soccer-Mobile.unity
     guid: a5a87f89187281046bd3c9df0e41a349
   - enabled: 1
-    path: Assets/Scenes/SubScenes/Spartan.unity
+    path: Assets/Scenes/SubScenes/Spartan_Attack-Mobile.unity
     guid: 0518eb127a85fd24ead112eff21eb21b
-  - enabled: 1
-    path: Assets/Scenes/SubScenes/TaiChi.unity
-    guid: ff77c0f1d7df7f24587f91bbe8f720ed
   m_configObjects: {}
